@@ -1,0 +1,4 @@
+MainThread      INFO mysql.connector     __init__.py: 149 -get_auth_plugin 07:32:12, 143.0, package: mysql.connector.plugins
+MainThread      INFO mysql.connector     __init__.py: 150 -get_auth_plugin 07:32:12, 143.0, plugin_name: caching_sha2_password
+MainThread      INFO mysql.connector     __init__.py: 154 -get_auth_plugin 07:32:12, 144.0, AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+MainThread      INFO order_mgmt         main.py:  25 -<module> 07:32:12, 146.0, Database hasbeen connected succesfully!
